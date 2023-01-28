@@ -242,8 +242,6 @@ Para aplicarmos a técnica de bind shell devemos utilizar os seguintes passos:
    Para mais informações sobre portas -
    
    [unix - Why are ports below 1024 privileged? - Stack Overflow](https://stackoverflow.com/questions/10182798/why-are-ports-below-1024-privileged)
-   
-   
 
 2. Precisamos nos conetar a partir da máquina de ataque ao host alvo na porta previamente aberta.
    
@@ -261,8 +259,6 @@ Para aplicarmos a técnica de bind shell devemos utilizar os seguintes passos:
    pwd 
    /home/kali
    ```
-
-
 
 ## Reverse Shell
 
@@ -290,8 +286,6 @@ Para mais informações sobre portas -
 
 [unix - Why are ports below 1024 privileged? - Stack Overflow](https://stackoverflow.com/questions/10182798/why-are-ports-below-1024-privileged)
 
-
-
 2. Conectar o host (alvo) ao ouvinte Netcat.
 
 ```bash
@@ -307,39 +301,11 @@ pwd
 /home/kali
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Fontes:
 
 Bind Shell e Reverse Shell - 
 
 [Difference Between Bind Shell and Reverse Shell - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-bind-shell-and-reverse-shell/)
-
-
 
 Portas abaixo de 1024 - 
 
