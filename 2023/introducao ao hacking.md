@@ -1,7 +1,3 @@
-# Stdin, Sdtout e Stderr
-
-**Stdin, Sdtout e Stderr**
-
 # HTML PAGE
 
 Vamos demonstrar como disponibilizar um serviço html no linux (máquina virtual) para acessarmos via windows (nativo).
@@ -300,6 +296,32 @@ A partir de agora é possivel utilizar comandos na máquina alvo a partir da má
 pwd
 /home/kali
 ```
+
+## Estabelecendo conexão
+
+Dentro os programas mencionados, existem muitos que podem realizar a mesma tarefa. Para realizar uma conexão e aplicar as técnicas de bind shell e reverse shell, temos:
+
+1. /dev/tcp
+
+2. netcat
+
+3. socat
+
+4. telnet
+
+----
+
+
+
+# Falta abordar
+
+## Stdin, Sdtout e Stderr
+
+## TCP e UDP
+
+### Flags TCP
+
+
 
 # Fontes:
 
