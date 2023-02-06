@@ -311,7 +311,19 @@ Dentro os programas mencionados, existem muitos que podem realizar a mesma taref
 
 ----
 
+# Information Gathering
 
+Uma ferramenta bastante útil para fazer o levantamento de emails de uma determinada empresa é o [hunter.io](https://hunter.io/).
+
+Basta informar o URL da empresa para retornar uma lista de contatos, também é possível aplicar filtros por departamento.
+
+Link para o hunter.io:
+
+https://hunter.io/
+
+
+
+ 
 
 # Falta abordar
 
@@ -320,8 +332,6 @@ Dentro os programas mencionados, existem muitos que podem realizar a mesma taref
 ## TCP e UDP
 
 ### Flags TCP
-
-
 
 # Fontes:
 
